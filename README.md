@@ -1,2 +1,4 @@
-"Mark Marrero"
-
+"Mark Marrero" 
+marrerom@oregonstate.edu
+blue
+Rush
